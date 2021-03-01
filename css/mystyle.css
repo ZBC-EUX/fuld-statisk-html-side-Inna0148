@@ -1,0 +1,53 @@
+#forside #header{
+background-color: burlywood;
+background-size:cover;
+background-position: center;
+background-image: url(https://www.starfate.ru/assets/images/sonnik/ykrah.jpg);
+}
+
+/*Header overskrift*/
+
+#header h1 {
+    color: #8b0039;
+    font-size: 80px;
+}
+
+#om-os #header{
+    background-color: burlywood;
+    background-size:cover;
+    background-position: center;
+    background-image: url(https://newdaynews.ru/pict/arts1/62/92/629268_b.jpg);
+    }
+    
+    /*Header overskrift*/
+    
+    #header h1 {
+        color: #00008b;
+        font-size: 80px;
+    }
+    #blog #header{
+        background-color: burlywood;
+        background-size:cover;
+        background-position: center;
+        background-image: url(https://newdaynews.ru/pict/arts1/r89/dop1/18/02/14.jpg);
+        }
+        
+        /*Header overskrift*/
+        
+        #header h1 {
+            color: #006b8b;
+            font-size: 80px;
+        }
+        #kontakt #header{
+            background-color: burlywood;
+            background-size:cover;
+            background-position: center;
+            background-image: url(https://robb.report/upload/img_cache/5e7/5e79671d76f0ba39b759639c4be2b6ea_ce_645x747x0x0_cropped_800x427.jpg);
+            }
+            
+            /*Header overskrift*/
+            
+            #header h1 {
+                color: #ffffff;
+                font-size: 50px;
+            }

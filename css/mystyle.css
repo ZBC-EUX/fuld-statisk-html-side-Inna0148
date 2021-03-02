@@ -1,3 +1,6 @@
+body{
+background-color:rgb(247, 214, 142);
+}
 #forside #header{
 background-color: burlywood;
 background-size:cover;
@@ -51,3 +54,32 @@ background-image: url(https://www.starfate.ru/assets/images/sonnik/ykrah.jpg);
                 color: #ffffff;
                 font-size: 50px;
             }
+
+            /*logo-billede*/
+#logo img {
+    width: 45px;
+    margin-top: -10px;
+}
+
+/*menu links*/
+#topmenu .menulist > a{
+padding: 10px;
+margin-left: 10px;
+text-decoration: none;
+color:rgb(96, 55, 5);
+}
+#topmenu .menulist >a:hover{
+    background-color: rgb(10, 43, 10);
+    border-radius: 3px;
+    color: beige;
+}
+
+/*Footer*/
+#footer{
+    background-color:rgb(7, 38, 7);
+    color:rgb(235, 221, 143);
+}rgb(235, 221, 143)
+/*overskrifter*/
+h2, h3, h4, h5, h6 {
+    color: rgb(7, 79, 7) ;
+}
